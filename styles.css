@@ -101,7 +101,9 @@ ul {
     list-style: none;
     padding: 15px;
     color: rgb(138, 138, 138);
-    margin: 10px 390px;
+    width: 80%;
+    max-width: 600px;
+    margin: 0 auto;
     font-size: 1.1em;
 
 
